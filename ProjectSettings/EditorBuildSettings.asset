@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CharLobby.unity
+    guid: 648bb4eebd374e5418be155fd15630e1
+  - enabled: 1
+    path: Assets/WaitingLobby.unity
+    guid: 28bb3b5ebbfe7474b9a5dec3931a1034
+  - enabled: 1
+    path: Assets/Battle1.unity
+    guid: ab456e9a668d64b16818c433755805a6

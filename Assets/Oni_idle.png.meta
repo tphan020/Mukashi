@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 3101f1487a4ef44529c1cfd25d23882a
+timeCreated: 1492759720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oni_idle_0
+    21300002: Oni_idle_1
+    21300004: Oni_idle_2
+    21300006: Oni_idle_3
+    21300008: Oni_idle_4
+    21300010: Oni_idle_5
+    21300012: Oni_idle_6
+    21300014: Oni_idle_7
+    21300016: Oni_idle_8
+    21300018: Oni_idle_9
+    21300020: Oni_idle_10
+    21300022: Oni_idle_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oni_idle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2589
+        width: 1164
+        height: 2324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 2589
+        width: 1164
+        height: 2324
+      alignment: 9
+      pivot: {x: 0.4995, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_2
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2585
+        width: 1164
+        height: 2328
+      alignment: 9
+      pivot: {x: 0.4991, y: 0.4995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_3
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 2582
+        width: 1163
+        height: 2331
+      alignment: 9
+      pivot: {x: 0.498, y: 0.4989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_4
+      rect:
+        serializedVersion: 2
+        x: 4834
+        y: 2574
+        width: 1164
+        height: 2339
+      alignment: 9
+      pivot: {x: 0.5109, y: 0.4988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_5
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 2570
+        width: 1164
+        height: 2343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49760464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 234
+        width: 1164
+        height: 2347
+      alignment: 9
+      pivot: {x: 0.504, y: 0.496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 230
+        width: 1164
+        height: 2351
+      alignment: 9
+      pivot: {x: 0.5, y: 0.495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 230
+        width: 1164
+        height: 2343
+      alignment: 9
+      pivot: {x: 0.499, y: 0.4965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 230
+        width: 1162
+        height: 2339
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49714917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_10
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 230
+        width: 1164
+        height: 2331
+      alignment: 9
+      pivot: {x: 0.501, y: 0.49856967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oni_idle_11
+      rect:
+        serializedVersion: 2
+        x: 6218
+        y: 194
+        width: 1032
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

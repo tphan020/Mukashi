@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: e38a3c8de0e09492e92806d990d70636
+timeCreated: 1492753716
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Musashi_Idle_0
+    21300002: Musashi_Shadow
+    21300004: Musashi_Idle_1
+    21300006: Musashi_Idle_2
+    21300008: Musashi_Idle_3
+    21300010: Musashi_Idle_4
+    21300012: Musashi_Idle_6
+    21300014: Musashi_Idle_7
+    21300016: Musashi_Idle_8
+    21300018: Musashi_Idle_9
+    21300020: Musashi_Idle_10
+    21300022: Musashi_Idle_11
+    21300024: Musashi_Idle_12
+    21300026: Musashi_Idle_13
+    21300028: Musashi_Idle_14
+    21300030: Musashi_Idle_15
+    21300032: Musashi_Idle_16
+    21300034: Musashi_Idle_17
+    21300036: Musashi_Idle_18
+    21300038: Musashi_Idle_19
+    21300040: Musashi_Idle_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Musashi_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6016
+        width: 2063
+        height: 1910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Shadow
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 6016
+        width: 702
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 6024
+        width: 2064
+        height: 1902
+      alignment: 9
+      pivot: {x: 0.4995, y: 0.49787283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 6024
+        width: 2060
+        height: 1902
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49787283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4096
+        width: 2065
+        height: 1902
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49787283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 4096
+        width: 2226
+        height: 1902
+      alignment: 9
+      pivot: {x: 0.465436, y: 0.497871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4294
+        width: 1
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 4095
+        width: 2254
+        height: 1903
+      alignment: 9
+      pivot: {x: 0.4575, y: 0.499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4222
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2159
+        width: 2250
+        height: 1911
+      alignment: 9
+      pivot: {x: 0.4575, y: 0.4995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2159
+        width: 2573
+        height: 1911
+      alignment: 9
+      pivot: {x: 0.39927667, y: 0.4983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2838
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 2159
+        width: 2363
+        height: 1911
+      alignment: 9
+      pivot: {x: 0.4359, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2822
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2190
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2207
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 2062
+        height: 1914
+      alignment: 9
+      pivot: {x: 0.499, y: 0.499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 234
+        width: 2060
+        height: 1904
+      alignment: 9
+      pivot: {x: 0.4997, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 234
+        width: 2060
+        height: 1904
+      alignment: 9
+      pivot: {x: 0.5, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Musashi_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0.5649435, y: 0.40525287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
